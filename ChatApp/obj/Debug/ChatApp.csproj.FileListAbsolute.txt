@@ -1,0 +1,10 @@
+C:\Users\Carla\Downloads\TCP  IP Server Client Example Part 2 (Chat Application)\C#\ChatApp\obj\Debug\ChatApp.Form1.resources
+C:\Users\Carla\Downloads\TCP  IP Server Client Example Part 2 (Chat Application)\C#\ChatApp\obj\Debug\ChatApp.Forms.FrmClient.resources
+C:\Users\Carla\Downloads\TCP  IP Server Client Example Part 2 (Chat Application)\C#\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+C:\Users\Carla\Downloads\TCP  IP Server Client Example Part 2 (Chat Application)\C#\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.Cache
+C:\Users\Carla\Downloads\TCP  IP Server Client Example Part 2 (Chat Application)\C#\ChatApp\bin\Debug\ChatApp.exe
+C:\Users\Carla\Downloads\TCP  IP Server Client Example Part 2 (Chat Application)\C#\ChatApp\bin\Debug\ChatApp.pdb
+C:\Users\Carla\Downloads\TCP  IP Server Client Example Part 2 (Chat Application)\C#\ChatApp\bin\Debug\NetComm.dll
+C:\Users\Carla\Downloads\TCP  IP Server Client Example Part 2 (Chat Application)\C#\ChatApp\obj\Debug\ChatApp.csprojResolveAssemblyReference.cache
+C:\Users\Carla\Downloads\TCP  IP Server Client Example Part 2 (Chat Application)\C#\ChatApp\obj\Debug\ChatApp.exe
+C:\Users\Carla\Downloads\TCP  IP Server Client Example Part 2 (Chat Application)\C#\ChatApp\obj\Debug\ChatApp.pdb
